@@ -4,4 +4,6 @@ let firstName = "quratulain";
 //  console.log(firstName);
 // console.log(firstName.length);
 // console.log(firstName.toUpperCase());
-   console.log(firstName.toLowerCase());
+//    console.log(firstName.toLowerCase());
+let newString = firstName.slice(0,3);
+console.log(newString);
